@@ -1,0 +1,9 @@
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/liballoy_rlp_derive-4a4a1107319273b3.dylib: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/de.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/en.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/utils.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/../README.md
+
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/alloy_rlp_derive-4a4a1107319273b3.d: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/de.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/en.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/utils.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/../README.md
+
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/lib.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/de.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/en.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/utils.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-derive-0.3.4/src/../README.md:

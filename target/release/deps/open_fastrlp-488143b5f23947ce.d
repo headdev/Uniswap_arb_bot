@@ -1,0 +1,10 @@
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/libopen_fastrlp-488143b5f23947ce.rmeta: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/decode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/encode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/libopen_fastrlp-488143b5f23947ce.rlib: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/decode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/encode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/open_fastrlp-488143b5f23947ce.d: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/decode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/encode.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/lib.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/decode.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/encode.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/open-fastrlp-0.1.4/src/types.rs:

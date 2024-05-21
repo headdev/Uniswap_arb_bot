@@ -1,0 +1,8 @@
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/libscale_info_derive-82b76ac73d672257.dylib: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/attr.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/trait_bounds.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/utils.rs
+
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/deps/scale_info_derive-82b76ac73d672257.d: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/lib.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/attr.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/trait_bounds.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/utils.rs
+
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/lib.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/attr.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/trait_bounds.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.11.3/src/utils.rs:

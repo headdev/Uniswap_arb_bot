@@ -1,0 +1,12 @@
+prefix=/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/build/jemalloc-sys-c46f3f282ee83f6d/out
+exec_prefix=/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/build/jemalloc-sys-c46f3f282ee83f6d/out
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+install_suffix=
+
+Name: jemalloc
+Description: A general purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support.
+URL: http://jemalloc.net/
+Version: 0.0.0_0
+Cflags: -I${includedir}
+Libs: -L${libdir} -ljemalloc${install_suffix}

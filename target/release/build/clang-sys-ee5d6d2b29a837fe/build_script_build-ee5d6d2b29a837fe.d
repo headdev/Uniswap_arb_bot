@@ -1,0 +1,9 @@
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/build/clang-sys-ee5d6d2b29a837fe/build_script_build-ee5d6d2b29a837fe: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs
+
+/Users/alainherrrera/Downloads/GalgotArbitrage/Uniswap_arb_bot/target/release/build/clang-sys-ee5d6d2b29a837fe/build_script_build-ee5d6d2b29a837fe.d: /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs /Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs
+
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs:
+/Users/alainherrrera/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs:
